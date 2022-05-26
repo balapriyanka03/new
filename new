@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<header>
+<center> 
+<font face = "calibri" size = "6" color = "black"><b> Budumuru Bala Priyanka</b></font>
+</center>
+</header>
+<body> 
+<center>
+<font face = "cambria" size = "3" color ="black"><b>Roll no:121910311040</b></font><br>
+<font face = "cambria" size ="3" color="black"><i>Address:5-7-10 kailash nagar,Gajuwaka,Visakhapatnam</i> </font><br>
+<font face = "cambria" size = "3" color ="black"><i>Email:121910311040@gitam.in</i></font><br>
+<font face = "cambria" size = "3" color ="black"><i>Phone no:7013041057</i></font><br>
+<img src="C:\Users\balap\Desktop\Academics\SEM-6\WAD Lab\priya img.jpg" alt="image error" width="200" height="250">
+</center>
+<h3>Educational Qualification</h3>
+<table border = "2">
+<tr>
+<th>S.no</th>
+<th>Name of the School/University</th>
+<th>Education</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Gitam University</td>
+<td>B.Tech</td>
+<td>2019-2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Narayana Junior College</td>
+<td>Intermediate</td>
+<td>2017-2019</td>
+</tr>
+<tr>
+<td>3</td>
+<td>St.Joseph's Secondary School</td>
+<td>10th</td>
+<td>2016-2017</td>
+</tr>
+</table>
+<aside>
+<h4>Programming language skills</h4>
+</aside>
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>C</li>
+</ul>
+</body>
+</html>
